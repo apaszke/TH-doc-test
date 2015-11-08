@@ -18,8 +18,8 @@ beginning, and list all available implementations, but will use class names
 without types and `real` and `accreal` as argument types.
 
 ## API Docs
-* [THTensor](/api/thtensor.md)
-* [THStorage](/api/thstorage.md)
+* [THTensor](/doc/api/thtensor.md)
+* [THStorage](/doc/api/thstorage.md)
 
 ## Developer documentation
-* [Generic files implementation](/developer/generic.md)
+* [Generic files implementation](/doc/developer/generic.md)
