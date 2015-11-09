@@ -20,6 +20,7 @@ without types and `real` and `accreal` as argument types.
 ## API Docs
 * [THTensor](/doc/api/thtensor.md)
 * [THStorage](/doc/api/thstorage.md)
+* <a href="/api/thstorage.md">ThStorage2</a>
 
 ## Developer documentation
 * [Generic files implementation](/doc/developer/generic.md)
